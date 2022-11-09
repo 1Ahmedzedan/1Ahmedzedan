@@ -4,4 +4,4 @@
 </h1>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 <br>
-<img src="file:///D:/Ahmed%20zedan/programs%20src/picture/giphy.gif">
+<img src="[file:///D:/Ahmed%20zedan/programs%20src/picture/giphy.gif](http://quickhoney.tumblr.com/post/128389271746/mr-robot-beta)">
