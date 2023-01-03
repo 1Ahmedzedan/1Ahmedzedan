@@ -11,3 +11,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 <br>
+
+
+<h3 align="left">Connect with me:</h3>
+<hr>
