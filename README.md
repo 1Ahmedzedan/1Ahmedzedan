@@ -12,7 +12,7 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://www.linkedin.com/in/ahmed-zedan-04589624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman elsayed" height="30" width="40" /></a> &nbsp;&nbsp;
