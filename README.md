@@ -31,5 +31,7 @@
 	<a href="https://atcoder.jp/users/ahmedzedan114"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	<a href="https://www.codechef.com/users/ahmedzedan884"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </div>
-
+<hr>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Ahmedzedan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="zedan" height="192px"/>
 
