@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=1Ahmedzedan&label=Profile%20views&color=0e75b6&style=plastic" alt="zedan" height=25px, width=150px/>
 
 
- ## <picture><img src = "https://raw.githubusercontent.com/1Ahmedzedan/1Ahmedzedan/main/picture/giphy.gif" width = 50px></picture> About me
+ ## <picture><img src = "https://raw.githubusercontent.com/1Ahmedzedan/1Ahmedzedan/main/picture/giphy.gif" width = 50px align="center"></picture> About me
  
 <picture><img align="right" src="https://raw.githubusercontent.com/1Ahmedzedan/1Ahmedzedan/main/picture/giphy%20(1).gif" width = 250px></picture>
 <br>
