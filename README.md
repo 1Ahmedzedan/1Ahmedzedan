@@ -34,5 +34,5 @@
 <hr>
 &nbsp;
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Ahmedzedan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" 		alt="zedan" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Ahmedzedan &langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" 		alt="zedan" height="192px"/>
 </div>
