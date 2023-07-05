@@ -18,9 +18,9 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/ahmed-zedan-04589624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman elsayed" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ahmed-zedan-04589624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed zedan" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013486804562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100048783972642" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmed_zedan111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanelsayed6529" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/ahmed_zedan111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed zedan" height="30" width="40" /></a> &nbsp;&nbsp;
 </div>
 
 <hr>
