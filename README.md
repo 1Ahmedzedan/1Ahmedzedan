@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'am AhmedZedan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=1Ahmedzedan&label=Profile%20views&color=0e75b6&style=plastic" alt="zedan" height=25px, width=150px/>
+	<a href="https://www.facebook.com/basem.salah.505960"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/basem-salah-254894215/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+	<a href="https://www.instagram.com/_basem_salah_/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </div>
 
  ## <picture><img src = "https://raw.githubusercontent.com/1Ahmedzedan/1Ahmedzedan/main/picture/giphy.gif" width = 50px></picture> About me
