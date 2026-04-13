@@ -34,7 +34,7 @@
 ### 🛠️ Technologies & Languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,java,react,nextjs,nodejs,express,mongodb,tailwind,sass,git,postman&perline=7" alt="Tech Stack Grid" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,java,react,nextjs,nodejs,express,mongodb,tailwind,git,postman,docker&perline=7" alt="Tech Stack Grid" />
   </a>
 </div>
 
