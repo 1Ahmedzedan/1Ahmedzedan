@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=61DAFB&center=true&vCenter=true&width=600&height=120&lines=Hi,+I'm+Ahmed+Zedan;Software+Engineer+%26+Problem+Solver;MERN+Stack+Developer" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ahmed-zedan-04589624a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100013486804562"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="https://www.instagram.com/ahmed_zedan111/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-zedan-04589624a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/+201556188801"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:a7mdzedan199@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-  <img src="https://capsule-render.vercel.app/render?type=transparent&color=61DAFB&height=50&section=header&text=_________________________________&fontSize=20" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 </div>
 
@@ -28,9 +28,8 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&color=20232A&height=30&section=header&text=_________________________________&fontSize=20" alt="divider" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 
 ### 🛠️ Technologies & Languages
 <div align="center">
@@ -52,5 +51,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Ahmedzedan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub Stats" />
+  <a href="https://github.com/1Ahmedzedan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Ahmedzedan&theme=react&hide_border=true&background=0D1117" alt="Ahmed's GitHub Streak" />
+  </a>
 </div>
